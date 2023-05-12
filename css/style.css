@@ -1,0 +1,14 @@
+.title {
+    color: aqua;
+    border-radius: 20px;
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: aqua;
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.headbar {
+    background-color: rgb(183, 212, 225);
+}
